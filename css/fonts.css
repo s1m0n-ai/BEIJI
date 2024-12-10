@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&amp;display=swap');
+@font-face {
+	font-family: 'Cutie Molly Demo';
+	src: url('../fonts/cutiemollydemo.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Milk Kids';
+	src: url('../fonts/milkkids.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Spicy Soup';
+	src: url('../fonts/spicysoup.ttf') format('truetype');
+}
